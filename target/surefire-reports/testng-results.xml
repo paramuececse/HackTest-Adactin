@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T19:41:50 IST" name="Suite" finished-at="2023-08-19T19:47:17 IST" duration-ms="326740">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T19:41:50 IST" name="Test" finished-at="2023-08-19T19:47:17 IST" duration-ms="326740">
+      <class name="Com.Adactin.Test.AdactinSignUpTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@2892d68]" started-at="2023-08-19T19:43:56 IST" name="beforeTest" finished-at="2023-08-19T19:46:14 IST" duration-ms="138219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="AdactinMethod()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@2892d68]" started-at="2023-08-19T19:46:49 IST" name="AdactinMethod" finished-at="2023-08-19T19:47:14 IST" duration-ms="24166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdactinMethod -->
+        <test-method is-config="true" signature="Registerpageclose()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@2892d68]" started-at="2023-08-19T19:47:14 IST" name="Registerpageclose" finished-at="2023-08-19T19:47:17 IST" duration-ms="3121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerpageclose -->
+      </class> <!-- Com.Adactin.Test.AdactinSignUpTest -->
+      <class name="Com.Adactin.Test.AdactinLoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Com.Adactin.Test.AdactinLoginTest@1a6d8329]" started-at="2023-08-19T19:41:50 IST" name="beforeTest" finished-at="2023-08-19T19:43:56 IST" duration-ms="125887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="LoginMethod()[pri:1, instance:Com.Adactin.Test.AdactinLoginTest@1a6d8329]" started-at="2023-08-19T19:46:14 IST" name="LoginMethod" finished-at="2023-08-19T19:46:49 IST" duration-ms="35287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMethod -->
+      </class> <!-- Com.Adactin.Test.AdactinLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

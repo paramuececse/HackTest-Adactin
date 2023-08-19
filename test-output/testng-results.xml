@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T19:32:29 IST" name="Default suite" finished-at="2023-08-19T19:35:26 IST" duration-ms="176412">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T19:32:29 IST" name="Default test" finished-at="2023-08-19T19:35:26 IST" duration-ms="176412">
+      <class name="Com.Adactin.Test.AdactinSignUpTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@7dcf94f8]" started-at="2023-08-19T19:32:29 IST" name="beforeTest" finished-at="2023-08-19T19:34:58 IST" duration-ms="148958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="AdactinMethod()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@7dcf94f8]" started-at="2023-08-19T19:34:58 IST" name="AdactinMethod" finished-at="2023-08-19T19:35:23 IST" duration-ms="24320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdactinMethod -->
+        <test-method is-config="true" signature="Registerpageclose()[pri:0, instance:Com.Adactin.Test.AdactinSignUpTest@7dcf94f8]" started-at="2023-08-19T19:35:23 IST" name="Registerpageclose" finished-at="2023-08-19T19:35:26 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerpageclose -->
+      </class> <!-- Com.Adactin.Test.AdactinSignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
